@@ -7,3 +7,5 @@ Let's say there is a Medical Insurance company and this company wants to create 
 We will follow the standard workflow from getting the dataset to the data analysis and data preprocessing. 🔄📈
 
 Our model predicts the cost of an insurance correctly for about 84% of time. 🎯
+
+If you can't view the code or it shows some type of error, just download the file and you will be able to view it and run it on your system 💻⬇️
